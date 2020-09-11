@@ -1,7 +1,7 @@
 # THETA Plug-in sample that works with multiple "SwitchBot MeterTH"
 
-より詳しい日本語の説明は[こちら](https://qiita.com/KA-2/items/あとで反映します)。<br>
-[Click here](https://qiita.com/KA-2/items/あとで反映します) for a more detailed explanation in Japanese.
+より詳しい日本語の説明は[こちら](https://qiita.com/KA-2/items/66222ca713c7ab82bd32)。<br>
+[Click here](https://qiita.com/KA-2/items/66222ca713c7ab82bd32) for a more detailed explanation in Japanese.
 
 ## Overview
 
